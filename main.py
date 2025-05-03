@@ -1,12 +1,3 @@
-# This is a simple pygame program that creates a grid and draws a robot on it.
-# The robot is represented by a blue square, and the grid is made up of grey squares.
-# The grid size and the robot's position can be adjusted by changing the GRID_SIZE,
-# GRID_WIDTH, and GRID_HEIGHT variables.
-# The program initializes pygame, creates a window with the specified dimensions,
-# and enters a loop that listens for events (like quitting the program).
-# It fills the screen with a white background, draws the grid, and draws the robot
-# at its current position. The display is updated at a frame rate of 60 frames per second.
-
 import pygame
 
 #configurations
